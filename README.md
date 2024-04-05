@@ -15,3 +15,7 @@ _Machine Learning Models_: The framework implements various machine learning mod
 3) NumPy
 4) NLTK (Natural Language Toolkit)
 5) scikit-learn
+
+**Description:**
+
+This project uses NLP techniques (stopwords, stemming, CountVectorizer) for language detection, with Random Forest classification by utilising hyperparameter tuning. Train on your own data and explore different languages!
